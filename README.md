@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Movie Recommendations in machine learning**
 
-- 🌱 I’m currently learning **AI, Recurrent neural network, OCI Architect.**
+- 🌱 I’m currently learning **Fullstack, Offensive security.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/JaiRaj22](https://github.com/JaiRaj22)
 
