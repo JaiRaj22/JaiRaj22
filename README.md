@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm JaiRaj</h1>
 <h3 align="center">Machine Learning Engineer Intern</h3>
 
-- 🔭 I’m currently working on **Movie Recommendations in machine learning**
+- 🔭 I’m currently working on **Flask**
 
 - 🌱 I’m currently learning **Fullstack, Offensive security.**
 
