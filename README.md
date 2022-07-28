@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm JaiRaj</h1>
 <h3 align="center">Machine Learning Engineer Intern</h3>
 
-- 🔭 I’m currently working on **Flask**
+- 🔭 I’m currently working on **Data Science**
 
-- 🌱 I’m currently learning **Fullstack, Offensive security.**
+- 🌱 I’m currently learning **Hadoop and SQL.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/JaiRaj22](https://github.com/JaiRaj22)
 
