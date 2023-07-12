@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm JaiRaj</h1>
 <h3 align="center">Associate Software Developer at Springer Nature</h3>
 
-- 🔭 I’m currently working on **Cloud**
+- 🔭 I’m currently working on **C#**
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning **.Net**
 
 - 👨‍💻 All of my projects are available at [https://github.com/JaiRaj22](https://github.com/JaiRaj22)
 
-- 📄 Know about my experiences [https://internshala.com/student/resume?detail_source=resume_intermediate](https://internshala.com/student/resume?detail_source=resume_intermediate)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
