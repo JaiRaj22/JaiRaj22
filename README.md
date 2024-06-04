@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm JaiRaj</h1>
 <h3 align="center">Associate Software Developer at Springer Nature</h3>
 
-- 🔭 I’m currently working on **C#**
+- 🔭 I’m currently working on **Python**
 
-- 🌱 I’m currently learning **.Net**
+- 🌱 I’m currently learning **Generative AI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/JaiRaj22](https://github.com/JaiRaj22)
 
