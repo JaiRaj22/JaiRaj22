@@ -20,4 +20,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jairaj22&show_icons=true&locale=en&layout=compact" alt="jairaj22" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jairaj22&show_icons=true&locale=en" alt="jairaj22" /></p>
+
